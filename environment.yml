@@ -1,0 +1,15 @@
+name: aca-paper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - jupyter
+  - notebook
+  - numpy
+  - seaborn
+  - scikit-learn
+
+prefix: /home/bill/mambaforge/envs/aca-paper
